@@ -1,0 +1,15 @@
+[[n(smart), n(healthy), fulfilled],
+[n(eats), n(sleeps), n(active), healthy],
+[n(gym), active],
+[n(hours), sleeps],
+[n(vegetables), n(water), eats],
+[n(reads), smart]].
+
+
+[[n(smart), n(healthy), fulfilled],
+[n(eats), n(sleeps), n(active), healthy],
+[n(gym), active],
+[n(hours), sleeps],
+[n(vegetables), n(water), eats],
+[n(reads), smart],
+[reads], [gym], [hours], [vegetables], [water]].

@@ -1,0 +1,3 @@
+[[or, [surface/small, distance/far], [price/cheap]],
+[and, [surface/medium], [price/normal]], 
+[or, [surface/large, distance/closer], [price/expensive]]].

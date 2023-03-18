@@ -1,0 +1,55 @@
+[[n(hound(X)),howl(X)],[n(have(X,Y)),n(cat(Y)),n(have(X,Z)),n(mouse(Z))],[n(ls(X)),n(have(X,Y)),n(howl(Y))],[have(john,a)],[cat(a),hound(a)],[ls(john)],[have(john,b)],[mouse(b)]].
+
+[[n(on(X,Y)),n(green(X)),green(Y)],[on(a,b)],[green(a)],[on(b,c)],[n(green(c))]].
+
+
+[[n(isSmartEnough(X)), n(isConscientious(X)), n(isLucky(X)), isSuccessful(X)],
+[n(isDisciplined(X)), n(isWise(X)), isConscientious(X)],
+[n(isSmartEnough(X)), isWise(X), n(isWise(X))],
+[n(isHardWorking(X)), n(isWise(X)), isSmartEnough(X)],
+[n(makeGoodDecisions(X)), isWise(X)],
+[isLucky(X)],
+[isHardWorking(adrian)],
+[isDisciplined(adrian)],
+[makeGoodDecisions(adrian)],
+[n(isSuccessful(adrian))]].
+
+
+[[n(smart), n(conscient), n(lucky), succes],
+[n(disciplined), n(wise), conscient],
+[n(smart), wise, n(wise)],
+[n(hardWork), n(wise), smart],
+[n(goodDecisions), wise],
+[lucky],
+[disciplined],
+[hardWork],
+[goodDecisions],
+[n(succes)]].
+
+
+
+
+
+
+
+
+[[a,b],[n(a), n(b)]].
+[[n(a),b],[c,f],[n(f),b],[n(c),b],[n(c)]].
+[[n(b),a],[n(a),b,e],[e],[a, n(e)],[n(a)]].
+[[n(a),b],[c,d],[n(d),b],[n(c),b],[n(b)]].
+
+[[n(isLucky(X)), isSuccessful(X)], [isLucky(adrian)], [n(isSuccessful(adrian))]].
+
+[[r, s], [n(s), m], [n(sl), m], [n(r), m], [n(r)]].
+
+[[t], [n(t), c], [n(c), n(f), g], [f], [n(g)], [n(i), c], [n(c), n(m), b]]. 
+
+
+
+
+
+
+
+
+
+

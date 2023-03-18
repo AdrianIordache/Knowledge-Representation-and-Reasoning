@@ -1,0 +1,13 @@
+[[n(cough),n(infection), pneumonia], [n(temperature),fever], [n(musclepain), n(fever), flu], [n(sick),n(fever),infection]].
+
+Without Questions
+
+[[n(cough),n(infection), pneumonia], [n(temperature),fever], [n(musclepain), n(fever), flu], [n(sick),n(fever),infection], [pain], [cough], [temperature], [sick]].
+
+
+[[n(cough),n(infection), pneumonia], [n(temperature),fever], [n(sick),n(fever),infection], [cough], [temperature], [sick]].
+
+
+[[tod], [n(tod),child], [n(infant),child], [n(child), n(female), girl], [n(child), n(male), boy], [female]].
+
+

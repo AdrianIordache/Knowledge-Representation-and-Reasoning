@@ -1,0 +1,9 @@
+[[pneumonia, n(cough),n(infection)], [fever, n(temperature)], [infection, n(sick),n(fever)]].
+
+Without Questions
+
+[[pneumonia, n(cough),n(infection)], [fever, n(temperature)], [infection, n(sick),n(fever)], [cough], [temperature], [sick]].
+
+[[tod], [n(tod),child], [n(infant),child], [n(child), n(female), girl], [n(child), n(male), boy], [female]].
+
+

@@ -1,0 +1,1 @@
+[[[cough, infection], [pneumonia]], [[temperature], [fever]], [[musclepain, fever], [flu]], [[sick,fever],[infection]]].

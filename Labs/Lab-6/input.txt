@@ -1,0 +1,5 @@
+[[or, [service/poor, food/rancid], [tip/stingy]],
+[and, [service/good], [tip/normal]], 
+[or, [service/excellent, food/delicious], [tip/generous]]].
+
+

@@ -1,0 +1,16 @@
+[[n(a), b],[c,f],[n(f),b],[n(c),b],[n(c)]].
+
+Classroom test cases
+[[n(a),b],[c,d],[n(d),b],[n(c),b],[n(b)]].
+[[n(b),a],[n(a),b,e],[e],[a,n(e)],[a]].
+
+[[a,b],[n(a),n(b)]].
+
+Test Cases
+[[a]].
+[[n(a)]].
+[[a], [n(a)]].
+[[n(a)], [a, b], [n(b)]].
+[[w,s,n(p)],[a,n(w),r,t],[q]].
+[[n(hardWorker(sue))], [n(student(X)), hardWorker(X)], [n(gradStudent(X)), student(X)], [gradStudent(sue)]].
+[[n(a),b],[c,d],[n(d),b],[n(c),b],[n(b)]].
